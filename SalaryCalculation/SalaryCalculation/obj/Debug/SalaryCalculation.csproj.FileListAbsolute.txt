@@ -1,0 +1,7 @@
+C:\Users\kisha\source\repos\SalaryCalculation\SalaryCalculation\bin\Debug\SalaryCalculation.exe.config
+C:\Users\kisha\source\repos\SalaryCalculation\SalaryCalculation\bin\Debug\SalaryCalculation.exe
+C:\Users\kisha\source\repos\SalaryCalculation\SalaryCalculation\bin\Debug\SalaryCalculation.pdb
+C:\Users\kisha\source\repos\SalaryCalculation\SalaryCalculation\obj\Debug\SalaryCalculation.csproj.AssemblyReference.cache
+C:\Users\kisha\source\repos\SalaryCalculation\SalaryCalculation\obj\Debug\SalaryCalculation.csproj.CoreCompileInputs.cache
+C:\Users\kisha\source\repos\SalaryCalculation\SalaryCalculation\obj\Debug\SalaryCalculation.exe
+C:\Users\kisha\source\repos\SalaryCalculation\SalaryCalculation\obj\Debug\SalaryCalculation.pdb
