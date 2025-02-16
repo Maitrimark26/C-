@@ -1,0 +1,7 @@
+C:\Users\kisha\source\repos\DataTypesAndTypeCasting\DataTypesAndTypeCasting\bin\Debug\DataTypesAndTypeCasting.exe.config
+C:\Users\kisha\source\repos\DataTypesAndTypeCasting\DataTypesAndTypeCasting\bin\Debug\DataTypesAndTypeCasting.exe
+C:\Users\kisha\source\repos\DataTypesAndTypeCasting\DataTypesAndTypeCasting\bin\Debug\DataTypesAndTypeCasting.pdb
+C:\Users\kisha\source\repos\DataTypesAndTypeCasting\DataTypesAndTypeCasting\obj\Debug\DataTypesAndTypeCasting.csproj.AssemblyReference.cache
+C:\Users\kisha\source\repos\DataTypesAndTypeCasting\DataTypesAndTypeCasting\obj\Debug\DataTypesAndTypeCasting.csproj.CoreCompileInputs.cache
+C:\Users\kisha\source\repos\DataTypesAndTypeCasting\DataTypesAndTypeCasting\obj\Debug\DataTypesAndTypeCasting.exe
+C:\Users\kisha\source\repos\DataTypesAndTypeCasting\DataTypesAndTypeCasting\obj\Debug\DataTypesAndTypeCasting.pdb
