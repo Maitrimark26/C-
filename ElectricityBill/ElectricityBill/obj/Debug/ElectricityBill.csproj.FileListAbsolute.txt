@@ -1,0 +1,7 @@
+C:\Users\kisha\source\repos\ElectricityBill\ElectricityBill\bin\Debug\ElectricityBill.exe.config
+C:\Users\kisha\source\repos\ElectricityBill\ElectricityBill\bin\Debug\ElectricityBill.exe
+C:\Users\kisha\source\repos\ElectricityBill\ElectricityBill\bin\Debug\ElectricityBill.pdb
+C:\Users\kisha\source\repos\ElectricityBill\ElectricityBill\obj\Debug\ElectricityBill.csproj.AssemblyReference.cache
+C:\Users\kisha\source\repos\ElectricityBill\ElectricityBill\obj\Debug\ElectricityBill.csproj.CoreCompileInputs.cache
+C:\Users\kisha\source\repos\ElectricityBill\ElectricityBill\obj\Debug\ElectricityBill.exe
+C:\Users\kisha\source\repos\ElectricityBill\ElectricityBill\obj\Debug\ElectricityBill.pdb
