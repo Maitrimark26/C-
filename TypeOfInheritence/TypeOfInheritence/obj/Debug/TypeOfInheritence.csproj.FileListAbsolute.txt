@@ -1,0 +1,7 @@
+C:\Users\kisha\source\repos\TypeOfInheritence\TypeOfInheritence\bin\Debug\TypeOfInheritence.exe.config
+C:\Users\kisha\source\repos\TypeOfInheritence\TypeOfInheritence\bin\Debug\TypeOfInheritence.exe
+C:\Users\kisha\source\repos\TypeOfInheritence\TypeOfInheritence\bin\Debug\TypeOfInheritence.pdb
+C:\Users\kisha\source\repos\TypeOfInheritence\TypeOfInheritence\obj\Debug\TypeOfInheritence.csproj.AssemblyReference.cache
+C:\Users\kisha\source\repos\TypeOfInheritence\TypeOfInheritence\obj\Debug\TypeOfInheritence.csproj.CoreCompileInputs.cache
+C:\Users\kisha\source\repos\TypeOfInheritence\TypeOfInheritence\obj\Debug\TypeOfInheritence.exe
+C:\Users\kisha\source\repos\TypeOfInheritence\TypeOfInheritence\obj\Debug\TypeOfInheritence.pdb
