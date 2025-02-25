@@ -1,0 +1,7 @@
+C:\Users\kisha\source\repos\InheritenceAndComposition\InheritenceAndComposition\bin\Debug\InheritenceAndComposition.exe.config
+C:\Users\kisha\source\repos\InheritenceAndComposition\InheritenceAndComposition\bin\Debug\InheritenceAndComposition.exe
+C:\Users\kisha\source\repos\InheritenceAndComposition\InheritenceAndComposition\bin\Debug\InheritenceAndComposition.pdb
+C:\Users\kisha\source\repos\InheritenceAndComposition\InheritenceAndComposition\obj\Debug\InheritenceAndComposition.csproj.AssemblyReference.cache
+C:\Users\kisha\source\repos\InheritenceAndComposition\InheritenceAndComposition\obj\Debug\InheritenceAndComposition.csproj.CoreCompileInputs.cache
+C:\Users\kisha\source\repos\InheritenceAndComposition\InheritenceAndComposition\obj\Debug\InheritenceAndComposition.exe
+C:\Users\kisha\source\repos\InheritenceAndComposition\InheritenceAndComposition\obj\Debug\InheritenceAndComposition.pdb
